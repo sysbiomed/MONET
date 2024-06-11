@@ -2,7 +2,7 @@
 FCT project MONET
 **Multi-omic networks in gliomas**, ref. PTDC/CCI-BIO/4180/2020 
 
-Here are provided the R scripts that reproduce the Methodology in pre-print published with DOI 10.1101/2023.02.19.529134 (https://doi.org/10.1101/2023.02.19.529134).
+Here are provided the R scripts that reproduce the Methodology in pre-print published in bioRxiv (https://doi.org/10.1101/2023.02.19.529134).
 
 - In folder **Scripts-for-reproducibility** are the two main R scripts:
   - "2016-classification.R", and
