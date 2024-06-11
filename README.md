@@ -8,7 +8,7 @@ Here are provided the R scripts that reproduce the Methodology in pre-print publ
   - "2016-classification.R", and
   - "2021-classification.R",
   
-that, respectively, implement the Method-2016 and Method-2021 described in the pre-print with DOI 10.1101/2023.02.19.529134.
+that, respectively, implement the Method-2016 and Method-2021 described.
 
 - In folder **Final-outputs**, are 3 R scripts' files, named:
   - "Creation_output1.R"
@@ -20,4 +20,4 @@ that create, respectively, the final 3 output files, named:
    - "Matrix_WHO2021.csv",
    - "SIMPLIFIED_CLASSIFICATION_TCGA_2016_2021.csv",
 
-with characteristics as described in the pre-print with DOI 10.1101/2023.02.19.529134.
+with characteristics as described in the pre-print.
