@@ -1,8 +1,7 @@
 # MONET
-FCT project MONET
-**Multi-omic networks in gliomas**, ref. PTDC/CCI-BIO/4180/2020 
+**Multi-omic networks in gliomas**, ref. PTDC/CCI-BIO/4180/2020
 
-Here are provided the R scripts that reproduce the Methodology in the pre-print published in bioRxiv (https://doi.org/10.1101/2023.02.19.529134).
+Here are provided the R scripts that reproduce the methodology for updating the tumour classification of TCGA glioma samples in accordance with WHO-2016 and WHO-2021 guidelines, presented in the preprint available at https://doi.org/10.1101/2023.02.19.529134.
 
 - In folder **Scripts-for-reproducibility** are the two main R scripts:
   - "2016-classification.R", and
@@ -20,4 +19,4 @@ that create, respectively, the final 3 output files, named:
    - "Matrix_WHO2021.csv",
    - "SIMPLIFIED_CLASSIFICATION_TCGA_2016_2021.csv",
 
-with characteristics as described in the pre-print.
+with characteristics as described in the preprint.
